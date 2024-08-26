@@ -1,0 +1,28 @@
+Dino Store Payment details:
+
+227 Cobblestone Road ACC:123006705
+30000 Bedrock, Cobblestone County IBAN:US100000060345
++555 7 789-1234 SWIFT:BOA447
+
+https://dinostore.bed | hello@dinostore.bed
+
+Bill to: Invoice No. 1
+Slate Rock and Gravel Company Invoice Date: 22.08.2024
+222 Rocky Way Issue Date: 22.08.2024
+30000 Bedrock, Cobblestone County Due Date: 21.09.2024
+
++555 7 123-5555
+fred@slaterockgravel.bed
+
+INVOICE
+Item Quantity Price Discount Tax Linetotal
+1 Frozen Brontosaurus Ribs 1 100,00 € 0% 19% 100,00 €
+
+Subtotal: 100,00 €
+Tax 19%: 19,00 €
+Total: 119,00 €
+
+Terms & Notes
+
+Fred, thank you very much. We really appreciate your business.
+Please send payments before the due date.
